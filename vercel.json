@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "https://up-to-us-covid-hesitancy.uc.r.appspot.com/methodology" }
+  ]
+}
