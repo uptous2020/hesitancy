@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "(.*)", "destination": "yahoo.com" }
+    { "source": "(.*)", "destination": "https://yahoo.com" }
   ]
 }
